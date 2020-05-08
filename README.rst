@@ -49,3 +49,5 @@ One can create a private package in a new repository, ``repository_c``, like so:
 
     # Items from the private repo/package
     from message_data_demo.model import my_private_model
+
+Reference: https://packaging.python.org/guides/packaging-namespace-packages/#native-namespace-packages
