@@ -1,7 +1,7 @@
 Python namespace packages example
 *********************************
 
-To use::
+To use (requires Python ≥ 3.3)::
 
     pip install repository_a
     pip install repository_b
